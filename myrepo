@@ -1,3 +1,4 @@
+#Linear Search
 pos=-1
 def search(list,n):
     i=0
